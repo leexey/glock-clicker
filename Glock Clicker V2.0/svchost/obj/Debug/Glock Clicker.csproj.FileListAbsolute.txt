@@ -1,0 +1,14 @@
+C:\Users\xey\Desktop\GlockClicker Source\svchost\obj\Debug\Glock Clicker.csproj.AssemblyReference.cache
+C:\Users\xey\Desktop\GlockClicker Source\svchost\obj\Debug\Glock Clicker.csproj.CoreCompileInputs.cache
+C:\Users\xey\Desktop\GlockClicker Source\svchost\bin\Debug\svchost.exe
+C:\Users\xey\Desktop\GlockClicker Source\svchost\bin\Debug\svchost.pdb
+C:\Users\xey\Desktop\GlockClicker Source\svchost\obj\Debug\svchost.exe
+C:\Users\xey\Desktop\GlockClicker Source\svchost\obj\Debug\svchost.pdb
+C:\Users\xey\Desktop\GlockClicker Source\Glock Clicker\svchost\bin\Debug\svchost.exe
+C:\Users\xey\Desktop\GlockClicker Source\Glock Clicker\svchost\bin\Debug\svchost.pdb
+C:\Users\xey\Desktop\GlockClicker Source\Glock Clicker\svchost\obj\Debug\Glock Clicker.csproj.AssemblyReference.cache
+C:\Users\xey\Desktop\GlockClicker Source\Glock Clicker\svchost\obj\Debug\Luicipher.Form1.resources
+C:\Users\xey\Desktop\GlockClicker Source\Glock Clicker\svchost\obj\Debug\Glock Clicker.csproj.GenerateResource.cache
+C:\Users\xey\Desktop\GlockClicker Source\Glock Clicker\svchost\obj\Debug\Glock Clicker.csproj.CoreCompileInputs.cache
+C:\Users\xey\Desktop\GlockClicker Source\Glock Clicker\svchost\obj\Debug\svchost.exe
+C:\Users\xey\Desktop\GlockClicker Source\Glock Clicker\svchost\obj\Debug\svchost.pdb
